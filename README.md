@@ -1,8 +1,4 @@
 # 🧠 Exercício 2
-
-Bem-vindo ao **segundo exercício de HTML** do nosso curso de **Frontend Básico**!  
-Neste exercício, vamos continuar aprendendo sobre **estrutura e hierarquia de conteúdo**, adicionando **novas tags de título** e praticando o uso de **imagens e parágrafos**.
-
 ---
 
 ## 🧩 Objetivo do Exercício
